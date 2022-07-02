@@ -1,0 +1,1 @@
+document.querySelector('#idChang').innerHTML = "wansudon"
